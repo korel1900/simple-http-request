@@ -1,0 +1,27 @@
+{
+  "name": "simple-http-request",
+  "version": "1.0.0",
+  "description": "A simple way to make http requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/korel1900/simple-http-request.git"
+  },
+  "keywords": [
+    "http",
+    "request",
+    "api",
+    "simple"
+  ],
+  "author": "@korel1900",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/korel1900/simple-http-request/issues"
+  },
+  "homepage": "https://github.com/korel1900/simple-http-request#readme",
+  "dependencies": {
+  }
+}
