@@ -1,6 +1,6 @@
 {
-  "name": "simple-http-request",
-  "version": "1.0.0",
+  "name": "simple-request-http",
+  "version": "1.0.1",
   "description": "A simple way to make http requests",
   "main": "index.js",
   "scripts": {
@@ -23,5 +23,11 @@
   },
   "homepage": "https://github.com/korel1900/simple-http-request#readme",
   "dependencies": {
+    "axios": "^1.6.8",
+    "simple-claculator": "^1.0.2",
+    "simple-jquery-validate": "^1.0.1",
+    "simple-socketio-extended": "^0.0.2",
+    "simpleton-jwt": "^1.0.1",
+    "smpl-schemas": "^0.0.2"
   }
 }
